@@ -2,7 +2,7 @@
 
 **AI / ML Engineer and full-stack developer** from Lahore, Pakistan. I build practical, secure AI products — LLM apps with retrieval and citations, fine-tuned models, and the full-stack SaaS around them.
 
-🌐 **Portfolio:** [ghulamjelani-ai.github.io](https://ghulamjelani-ai.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/ghulam-jelani-ai) · ✉️ ghulamjelani010@gmail.com
+🌐 **Portfolio:** [ghulamjelani-ai.github.io](https://ghulamjelani-ai.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/ghulam-jelani-ai) · ✉️ ghulamjelani020@gmail.com
 
 🟢 Open to AI/ML and full-stack roles, internships and freelance work.
 
